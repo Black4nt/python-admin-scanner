@@ -1,6 +1,6 @@
 # Admin Page Scanner
 
-[![Python](https://img.shields.io/badge/python-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/Black4nt/python-admin-scanner/blob/master/LICENSE)
+[![Python](https://img.shields.io/badge/python-language-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/Black4nt/python-admin-scanner/blob/master/LICENSE)
 
 Admin Page Scanner by Black4nt
 Version: 0.1
